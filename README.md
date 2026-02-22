@@ -57,4 +57,4 @@ npm run dev
 L'interface utilise un design **Glassmorphism** avec un mode sombre optimisé pour une expérience utilisateur premium.
 
 ---
-Projet développé avec ❤️ par [Votre Nom/Pseudo].
+Projet développé avec ❤️ par Nazir et Nana.
